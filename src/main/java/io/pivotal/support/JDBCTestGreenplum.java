@@ -4,6 +4,7 @@ import java.sql.*;
 
 public class JDBCTestGreenplum {
     //public static final String DRIVER = "org.postgresql.Driver";
+	//chenghui
     public static final String DRIVER = "com.pivotal.jdbc.GreenplumDriver";
 
 
