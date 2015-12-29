@@ -6,6 +6,7 @@ public class JDBCTest {
 //public static final String CONNECTION_URL = "jdbc:postgresql://mdw:5432/gpadmin?protocolVersion=4&user=gpadmin&password=changeme&loglevel=2";
 //public static final String DRIVER = "org.postgresql.Driver";
 //public static final String SQL = "SELECT * from jdbc_test";
+//ch
 
     public static void usage() {
         System.out.printf("\nUsage: pivotal.support.JDBCTest <url> <sql statement> <driver> <username> <password>\n\n");
